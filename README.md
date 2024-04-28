@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-Hi my name is harini 
+Hi, my name is Harini (she/her)! I am currently studying computer science and economics at Northeastern University in Boston, MA. Code for all projects is available upon request!
+
+
