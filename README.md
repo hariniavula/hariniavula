@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-My name is Harini Avula! I am currently studying computer science and economics at Northeastern University in Boston, MA. I have experience with Java, Python, and HTML/CSS/JS. I'm currently learning React. Code for all projects is available upon request! 
+My name is Harini Avula! I am currently studying computer science and economics at Northeastern University in Boston, MA. I have experience with Java, Python, and HTML/CSS/JS. Code for all projects is available upon request! 
 
 
