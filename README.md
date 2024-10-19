@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 ___
 - 🎓 Pursuing a B.S. in Computer Science & Economics 
-- 👩‍💻 Currently working as a Website Developer and Research Assistant
+- 💻 Currently working as a Website Developer and Research Assistant
 - 🔭 Completed various projects, including data analysis and AI-powered applications
 
 ### 🛠️ Tech Stack
