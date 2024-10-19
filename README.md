@@ -14,16 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-My name is Harini Avula! I am currently studying computer science and economics at Northeastern University in Boston, MA. I have experience with Java, Python, and HTML/CSS/JS. Code for all projects is available upon request! 
-
-
-Here’s a sample GitHub README based on your resume and style preferences:
-
----
 
 ### Hi there 👋 I'm Harini Avula!
 
-👩‍💻 I am a second year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology and data. 
+👩‍💻 I am a second-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology and data. 
 
 ### 🚀 About Me
 - 🎓 Pursuing a B.S. in Computer Science & Economics 
@@ -35,11 +29,10 @@ Here’s a sample GitHub README based on your resume and style preferences:
 - **Frameworks**: React, Next.js, Tailwind CSS, Material UI
 - **Tools**: GitHub, Firebase, OpenAI, Jupyter Notebooks, Vercel, Vite, Figma, Excel
 
-
 ### 🎯 Future Goals
 - Enhancing my full-stack development skills
+- Gaining more skills in data analysis and visualization with SQL and Tableau
 - Becoming proficient in AI integration
-- Gaining AWS certifications
 
 ### 🌱 Beyond Tech
 When I'm not coding, I enjoy:
