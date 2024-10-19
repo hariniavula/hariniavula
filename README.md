@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-### Hi there 👋 I'm Harini Avula!
-___
-
+## Hi there 👋 I'm Harini Avula!
 👩‍💻 I am a second-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology and data. 
 
 ### 🚀 About Me
