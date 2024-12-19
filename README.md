@@ -46,7 +46,7 @@ When I'm not coding, I enjoy:
 ___
 - **LinkedIn**: [Harini Avula](http://www.linkedin.com/in/harini-avula)
 - **GitHub**: [hariniavula](https://github.com/hariniavula)
-- **Personal Website**: [Portfolio](https://hariniavula.github.io/harini-website/)
+- **Personal Website**: [Portfolio](https://hariniavula.github.io/harini-website-main/)
 
 Feel free to reach out if you'd like to collaborate or chat about tech, data, or any of my interests!
 
