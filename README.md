@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 ___
 - 🎓 Pursuing a B.S. in Computer Science & Economics 
-- 💻 Currently working as a Website Developer and Research Assistant
-- 🔭 Completed various projects, including data analysis and AI-powered applications
+- 💻 Currently working as a Automation Developer, Website Developer and UX
+- 🔭 Completed various projects, including designing web interfaces, data analysis, software development, and AI-powered applications
 
 ### 🛠️ Tech Stack
 ___
@@ -31,8 +31,8 @@ ___
 
 ### 🎯 Future Goals
 ___
-- Enhancing my full-stack development skills
-- Gaining more skills in data analysis and visualization with SQL and Tableau
+- Enhancing my full-stack development and user experience design skills
+- Gaining more skills in data analysis and visualization 
 - Becoming proficient in AI integration
 
 ### 🌱 Beyond Tech
@@ -46,7 +46,7 @@ When I'm not coding, I enjoy:
 ___
 - **LinkedIn**: [Harini Avula](http://www.linkedin.com/in/harini-avula)
 - **GitHub**: [hariniavula](https://github.com/hariniavula)
-- **Personal Website**: [Portfolio](https://hariniavula.github.io/harini-website-main/)
+- **Personal Website**: [Portfolio](https://hariniavula-portfolio.netlify.app/)
 
 Feel free to reach out if you'd like to collaborate or chat about tech, data, or any of my interests!
 
