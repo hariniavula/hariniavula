@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 ___
 - 🎓 Pursuing a B.S. in Computer Science & Economics 
-- 💻 Currently working as a Automation Developer, Website Developer and UX
+- 💻 Currently working as a Automation Software Developer Citizens
 - 🔭 Completed various projects, including designing web interfaces, data analysis, software development, and AI-powered applications
 
 ### 🛠️ Tech Stack
