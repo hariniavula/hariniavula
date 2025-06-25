@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 --> 
 
 ## Hi there 👋 I'm Harini Avula!
-👩‍💻 I am a second-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology and data. 
+👩‍💻 I am a second-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology, design, and data. 
 
 ### 🚀 About Me
 ___
-- 🎓 Pursuing a B.S. in Computer Science & Economics 
+- 🎓 Pursuing a B.S. in Computer Science & Economics with a Minor in Interaction Design
 - 💻 Currently working as a Automation Software Developer Citizens
 - 🔭 Completed various projects, including designing web interfaces, data analysis, software development, and AI-powered applications
 
@@ -46,7 +46,7 @@ When I'm not coding, I enjoy:
 ___
 - **LinkedIn**: [Harini Avula](http://www.linkedin.com/in/harini-avula)
 - **GitHub**: [hariniavula](https://github.com/hariniavula)
-- **Personal Website**: [Portfolio](https://hariniavula-portfolio.netlify.app/)
+- **Personal Website**: [Portfolio](https://harini-product-portfolio.framer.website/)
 
 Feel free to reach out if you'd like to collaborate or chat about tech, data, or any of my interests!
 
