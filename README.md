@@ -15,29 +15,30 @@ Here are some ideas to get you started:
 --> 
 
 ## Hi there 👋 I'm Harini Avula!
-👩‍💻 I am a second-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology, design, and data. 
+👩‍💻 I am a third-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology, design, and data. 
 
 ### 🚀 About Me
 ___
-- 🎓 Pursuing a B.S. in Computer Science & Economics with a Minor in Interaction Design
-- 💻 Currently working as a Automation Software Developer Citizens
-- 🔭 Completed various projects, including designing web interfaces, data analysis, software development, and AI-powered applications
+- 🎓 Pursuing a B.S. in Computer Science & Economics
+- 💻 Previously working as a Automation Software Developer & Business Improvement Intern at Citizens
+- 🔭 Completed various projects, including designing web interfaces, data analysis, project management, marketing strategy, and software development
+- Actively looking for a co-op/internship January - August 2026 
+
 
 ### 🛠️ Tech Stack
 ___
-- **Languages**: Java, HTML/CSS, JavaScript, Python, R
-- **Frameworks**: React, Next.js, Tailwind CSS, Material UI
-- **Tools**: GitHub, Firebase, OpenAI, Jupyter Notebooks, Vercel, Vite, Figma, Excel
+- **Languages & Frameworks**: Java, HTML/CSS, JavaScript, Python, R, SQL, React, Tailwind CSS 
+- **Tools**: Figma, Jira, Confluence, Lucidchart, Visio, Tableau, Excel, Power BI, Git, UiPath, Canva, Adobe, Notion, Asana, Firebase, OpenAI, Jupyter Notebooks, Vercel, Vite,
 
 ### 🎯 Future Goals
 ___
-- Enhancing my full-stack development and user experience design skills
+- Advance into a product development role, where I can take a project from idea to launch
+- Enhancing my user experience design skills
 - Gaining more skills in data analysis and visualization 
-- Becoming proficient in AI integration
 
 ### 🌱 Beyond Tech
 ___
-When I'm not coding, I enjoy:
+When I'm not working, I enjoy:
 - Playing tennis and pickleball 🎾
 - Exploring new recipes and cooking 👩‍🍳
 - Reading 📚 
@@ -46,7 +47,9 @@ When I'm not coding, I enjoy:
 ___
 - **LinkedIn**: [Harini Avula](http://www.linkedin.com/in/harini-avula)
 - **GitHub**: [hariniavula](https://github.com/hariniavula)
-- **Personal Website**: [Portfolio](https://harini-product-portfolio.framer.website/)
+- **Personal Website**: [Portfolio](https://harini-avula.framer.website/)
+- **Email**: [Email](mailto:hsavula@gmail.com)
+  
 
 Feel free to reach out if you'd like to collaborate or chat about tech, data, or any of my interests!
 
