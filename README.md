@@ -22,7 +22,7 @@ ___
 - 🎓 Pursuing a B.S. in Computer Science & Economics
 - 💻 Previously working as a Automation Software Developer & Business Improvement Intern at Citizens
 - 🔭 Completed various projects, including designing web interfaces, data analysis, project management, marketing strategy, and software development
-- Actively looking for a co-op/internship January - August 2026 
+- 📋 Actively looking for a co-op/internship January - August 2026 
 
 
 ### 🛠️ Tech Stack
