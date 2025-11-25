@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 ___
 - 🎓 Pursuing a B.S. in Computer Science & Economics
+- 🎨 Website Developer @ Forge & UX Designer @ Sandbox at Northeastern 
 - 💻 Previously working as a Automation Software Developer & Business Improvement Intern at Citizens
 - 🔭 Completed various projects, including designing web interfaces, data analysis, project management, marketing strategy, and software development
 - 📋 Always looking for experiences in analytics and product development 
