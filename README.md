@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --> 
 
 ## Hi there 👋 I'm Harini Avula!
-👩‍💻 I am a third-year student at Northeastern University in Boston, MA. I'm passionate about developing innovative solutions at the intersection of technology, design, and data. 
+👩‍💻 I am a honors student at Northeastern University in Boston, MA, class of 2027. I'm passionate about developing innovative solutions at the intersection of technology, design, and data. 
 
 ### 🚀 About Me
 ___
