@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ___
 - 🎓 Pursuing a B.S. in Computer Science & Economics
 - 🎨 Lead Website Developer @ [Forge](https://www.forgenu.com/home) and UX Designer @ [Sandbox](https://www.sandboxnu.com/) at Northeastern 
-- 💻 Previously Corporate Analyst Intern @JPMC, Engineering Program Manager Co-op @ KDP, and Automation Software Developer & Business Improvement Co-op @ Citizens
+- 💻 Previously Corporate Analyst Intern @ JPMC, Engineering Program Manager Co-op @ KDP, and Automation Software Developer & Business Improvement Co-op @ Citizens
 - 🔭 Completed various projects, including designing web interfaces, data analysis, project management, marketing strategy, and software development
 - 📋 Always looking for experiences in analytics and product development 
 
